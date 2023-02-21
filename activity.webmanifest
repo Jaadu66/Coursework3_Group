@@ -1,0 +1,15 @@
+{
+    "name": "CW3",
+    "short_name": "Activities",
+    "description": "An online store for after school activities",
+    "icons": [
+      {
+        "src": "img/appIcon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#1098AD"
+  }
